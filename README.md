@@ -1,4 +1,4 @@
-[README (1).md](https://github.com/user-attachments/files/28184550/README.1.md)
+[README.md](https://github.com/user-attachments/files/28184550/README.1.md)
 # Hi, I'm Muhammednur Damlahi
 
 Full-Stack Software Engineer · Istanbul, Türkiye
