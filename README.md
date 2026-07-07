@@ -121,4 +121,4 @@ A community hub that connects students, coordinates events, and ran the universi
 
 <a href="mailto:nordam312@gmail.com"><img src="https://img.shields.io/badge/Email-0A192F?style=for-the-badge&logo=gmail&logoColor=64FFDA" alt="Email" /></a>
 <a href="https://linkedin.com/in/mohammeddamlakhi"><img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=64FFDA" alt="LinkedIn" /></a>
-<a href="https://snapcalcoach.com"><img src="https://img.shields.io/badge/SnapCal%20Live-0A192F?style=for-the-badge&logo=vercel&logoColor=64FFDA" alt="SnapCal Live" /></a>
+
