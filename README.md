@@ -22,7 +22,7 @@ I build production-grade SaaS products, AI-integrated systems, and distributed b
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white) ![Telegraf](https://img.shields.io/badge/Telegraf-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white) ![Telegraf](https://img.shields.io/badge/Telegraf-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
 **Frontend**
 
@@ -46,8 +46,8 @@ I build production-grade SaaS products, AI-integrated systems, and distributed b
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nordam312&show_icons=true&hide_border=true&count_private=true&title_color=64FFDA&text_color=CCD6F6&icon_color=64FFDA&bg_color=0A192F" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nordam312&layout=compact&hide_border=true&title_color=64FFDA&text_color=CCD6F6&bg_color=0A192F" alt="Top Languages" />
+<img height="165" src="https://nordam312-github-readme-stats.vercel.app/api?username=nordam312&show_icons=true&hide_border=true&count_private=true&title_color=64FFDA&text_color=CCD6F6&icon_color=64FFDA&bg_color=0A192F" alt="GitHub Stats" />
+<img height="165" src="https://nordam312-github-readme-stats.vercel.app/api/top-langs/?username=nordam312&layout=compact&hide_border=true&title_color=64FFDA&text_color=CCD6F6&bg_color=0A192F" alt="Top Languages" />
 
 <img src="https://streak-stats.demolab.com?user=nordam312&hide_border=true&background=0A192F&border=0A192F&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&sideLabels=CCD6F6&dates=8892B0&stroke=CCD6F6&currStreakNum=CCD6F6&sideNums=CCD6F6" alt="GitHub Streak" />
 
@@ -94,7 +94,7 @@ A community hub that connects students, coordinates events, and ran the universi
 | Area | Stack |
 |---|---|
 | **Languages** | TypeScript (strict), JavaScript (ES2023+), Python, SQL, PHP |
-| **Backend** | Node.js, Express, FastAPI, Telegraf, Prisma ORM, Zod, Laravel, WebSocket |
+| **Backend** | Node.js, Express, NestJS, FastAPI, Telegraf, Prisma ORM, Zod, Laravel, WebSocket |
 | **Frontend** | React, Next.js (App Router), Tailwind CSS v4 |
 | **AI &amp; ML** | Gemini Vision, GPT-4o-mini, Whisper, InsightFace (face embeddings) |
 | **Databases** | PostgreSQL, pgvector (HNSW), MySQL, Redis, PgBouncer |
