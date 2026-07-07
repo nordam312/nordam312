@@ -18,40 +18,27 @@ I build production-grade SaaS products, AI-integrated systems, and distributed b
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,php&theme=dark" alt="Languages" />
-&nbsp;
-<img src="https://img.shields.io/badge/SQL-0A192F?style=for-the-badge&logo=postgresql&logoColor=64FFDA" alt="SQL" />
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,laravel&theme=dark" alt="Backend" />
-&nbsp;
-<img src="https://img.shields.io/badge/Prisma-0A192F?style=for-the-badge&logo=prisma&logoColor=64FFDA" alt="Prisma" />
-<img src="https://img.shields.io/badge/Zod-0A192F?style=for-the-badge&logo=zod&logoColor=64FFDA" alt="Zod" />
-<img src="https://img.shields.io/badge/Telegraf-0A192F?style=for-the-badge&logo=telegram&logoColor=64FFDA" alt="Telegraf" />
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white) ![Telegraf](https://img.shields.io/badge/Telegraf-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend" />
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Data &amp; Messaging**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,rabbitmq&theme=dark" alt="Data and Messaging" />
-&nbsp;
-<img src="https://img.shields.io/badge/pgvector-0A192F?style=for-the-badge&logo=postgresql&logoColor=64FFDA" alt="pgvector" />
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 **DevOps &amp; Observability**
 
-<img src="https://skillicons.dev/icons?i=docker,githubactions,prometheus,linux,git&theme=dark" alt="DevOps and Observability" />
-&nbsp;
-<img src="https://img.shields.io/badge/OpenTelemetry-0A192F?style=for-the-badge&logo=opentelemetry&logoColor=64FFDA" alt="OpenTelemetry" />
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white)
 
 **AI &amp; ML**
 
-<img src="https://img.shields.io/badge/Gemini%20Vision-0A192F?style=for-the-badge&logo=googlegemini&logoColor=64FFDA" alt="Gemini" />
-<img src="https://img.shields.io/badge/GPT--4o--mini-0A192F?style=for-the-badge&logo=openai&logoColor=64FFDA" alt="GPT-4o-mini" />
-<img src="https://img.shields.io/badge/Whisper-0A192F?style=for-the-badge&logo=openai&logoColor=64FFDA" alt="Whisper" />
-<img src="https://img.shields.io/badge/InsightFace-0A192F?style=for-the-badge&logo=tensorflow&logoColor=64FFDA" alt="InsightFace" />
+![Gemini Vision](https://img.shields.io/badge/Gemini%20Vision-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![GPT-4o-mini](https://img.shields.io/badge/GPT--4o--mini-412991?style=for-the-badge&logo=openai&logoColor=white) ![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white) ![InsightFace](https://img.shields.io/badge/InsightFace-5C3EE8?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
 
@@ -76,15 +63,7 @@ I build production-grade SaaS products, AI-integrated systems, and distributed b
 
 Graduation thesis. A TypeScript/Express API gateway, Python/FastAPI InsightFace inference service, PostgreSQL + pgvector, Redis, and RabbitMQ. Includes a biometric pipeline with 512-d face embeddings (HNSW vector search), transactional outbox, circuit breaker resilience, JWT auth with token rotation, and a Next.js dashboard with a real-time WebSocket attendance feed.
 
-<img src="https://img.shields.io/badge/TypeScript-0A192F?style=flat-square&logo=typescript&logoColor=64FFDA" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Python-0A192F?style=flat-square&logo=python&logoColor=64FFDA" alt="Python" />
-<img src="https://img.shields.io/badge/FastAPI-0A192F?style=flat-square&logo=fastapi&logoColor=64FFDA" alt="FastAPI" />
-<img src="https://img.shields.io/badge/pgvector-0A192F?style=flat-square&logo=postgresql&logoColor=64FFDA" alt="pgvector" />
-<img src="https://img.shields.io/badge/RabbitMQ-0A192F?style=flat-square&logo=rabbitmq&logoColor=64FFDA" alt="RabbitMQ" />
-<img src="https://img.shields.io/badge/Redis-0A192F?style=flat-square&logo=redis&logoColor=64FFDA" alt="Redis" />
-<img src="https://img.shields.io/badge/Next.js-0A192F?style=flat-square&logo=nextdotjs&logoColor=64FFDA" alt="Next.js" />
-<img src="https://img.shields.io/badge/OpenTelemetry-0A192F?style=flat-square&logo=opentelemetry&logoColor=64FFDA" alt="OpenTelemetry" />
-<img src="https://img.shields.io/badge/Docker-0A192F?style=flat-square&logo=docker&logoColor=64FFDA" alt="Docker" />
+`TypeScript` · `Python` · `FastAPI` · `PostgreSQL/pgvector` · `RabbitMQ` · `Redis` · `Next.js` · `WebSocket` · `OpenTelemetry` · `Prometheus` · `Docker`
 
 **Repo:** [github.com/nordam312/facevec-attendance](https://github.com/nordam312/facevec-attendance)
 
@@ -94,17 +73,7 @@ Graduation thesis. A TypeScript/Express API gateway, Python/FastAPI InsightFace 
 
 An end-to-end nutrition coach that turns a photo, voice note, or text message into structured meal logs, backed by a multi-model AI pipeline and subscription billing.
 
-<img src="https://img.shields.io/badge/TypeScript-0A192F?style=flat-square&logo=typescript&logoColor=64FFDA" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Node.js-0A192F?style=flat-square&logo=nodedotjs&logoColor=64FFDA" alt="Node.js" />
-<img src="https://img.shields.io/badge/Next.js%2016-0A192F?style=flat-square&logo=nextdotjs&logoColor=64FFDA" alt="Next.js 16" />
-<img src="https://img.shields.io/badge/Gemini%20Vision-0A192F?style=flat-square&logo=googlegemini&logoColor=64FFDA" alt="Gemini Vision" />
-<img src="https://img.shields.io/badge/GPT--4o--mini-0A192F?style=flat-square&logo=openai&logoColor=64FFDA" alt="GPT-4o-mini" />
-<img src="https://img.shields.io/badge/Whisper-0A192F?style=flat-square&logo=openai&logoColor=64FFDA" alt="Whisper" />
-<img src="https://img.shields.io/badge/PostgreSQL-0A192F?style=flat-square&logo=postgresql&logoColor=64FFDA" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Redis-0A192F?style=flat-square&logo=redis&logoColor=64FFDA" alt="Redis" />
-<img src="https://img.shields.io/badge/Docker-0A192F?style=flat-square&logo=docker&logoColor=64FFDA" alt="Docker" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-0A192F?style=flat-square&logo=githubactions&logoColor=64FFDA" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Paddle-0A192F?style=flat-square&logo=paddle&logoColor=64FFDA" alt="Paddle" />
+`TypeScript` · `Node.js` · `Next.js 16` · `Gemini Vision` · `GPT-4o-mini` · `Whisper` · `PostgreSQL` · `Redis` · `Docker` · `GitHub Actions` · `Paddle`
 
 **Live:** [snapcalcoach.com](https://snapcalcoach.com) · [Telegram Bot](https://t.me/SnapCalCoachBot)
 
@@ -114,11 +83,7 @@ An end-to-end nutrition coach that turns a photo, voice note, or text message in
 
 A community hub that connects students, coordinates events, and ran the university's first digital council elections end-to-end.
 
-<img src="https://img.shields.io/badge/React-0A192F?style=flat-square&logo=react&logoColor=64FFDA" alt="React" />
-<img src="https://img.shields.io/badge/TypeScript-0A192F?style=flat-square&logo=typescript&logoColor=64FFDA" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Laravel-0A192F?style=flat-square&logo=laravel&logoColor=64FFDA" alt="Laravel" />
-<img src="https://img.shields.io/badge/MySQL-0A192F?style=flat-square&logo=mysql&logoColor=64FFDA" alt="MySQL" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-0A192F?style=flat-square&logo=tailwindcss&logoColor=64FFDA" alt="Tailwind CSS" />
+`React` · `TypeScript` · `Laravel` · `MySQL` · `Tailwind CSS`
 
 **Live:** [iausyriancommunity.com](https://iausyriancommunity.com) · **Repo:** [github.com/nordam312/syrian-community-aydin](https://github.com/nordam312/syrian-community-aydin)
 
