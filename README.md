@@ -93,7 +93,7 @@ A community hub that connects students, coordinates events, and ran the universi
 | **Payments** | Paddle (HMAC webhooks, subscription lifecycle) |
 | **Testing** | Vitest, Supertest, Pytest, unit/integration/E2E |
 
-**Spoken Languages:** 🇸🇾 Arabic (Native) · 🇹🇷 Turkish (Native) · 🇬🇧 English (B2)
+**Spoken Languages:** Arabic (Native) · Turkish (Native) · English (C1)
 
 ---
 
@@ -107,6 +107,7 @@ A community hub that connects students, coordinates events, and ran the universi
 
 ## Contact
 
-<a href="mailto:nordam312@gmail.com"><img src="https://img.shields.io/badge/Email-0A192F?style=for-the-badge&logo=gmail&logoColor=64FFDA" alt="Email" /></a>
-<a href="https://linkedin.com/in/mohammeddamlakhi"><img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=64FFDA" alt="LinkedIn" /></a>
+Open to remote engineering roles and freelance collaboration. The best ways to reach me:
+
+[![Email](https://img.shields.io/badge/Email-nordam312%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1C1C1C)](mailto:nordam312@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammeddamlakhi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1C1C1C)](https://linkedin.com/in/mohammeddamlakhi) [![Live Product](https://img.shields.io/badge/Live-snapcalcoach.com-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1C1C1C)](https://snapcalcoach.com)
 
