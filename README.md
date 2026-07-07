@@ -42,18 +42,6 @@ I build production-grade SaaS products, AI-integrated systems, and distributed b
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://nordam312-github-readme-stats.vercel.app/api?username=nordam312&show_icons=true&hide_border=true&count_private=true&title_color=64FFDA&text_color=CCD6F6&icon_color=64FFDA&bg_color=0A192F" alt="GitHub Stats" />
-<img height="165" src="https://nordam312-github-readme-stats.vercel.app/api/top-langs/?username=nordam312&layout=compact&hide_border=true&title_color=64FFDA&text_color=CCD6F6&bg_color=0A192F" alt="Top Languages" />
-
-<img src="https://streak-stats.demolab.com?user=nordam312&hide_border=true&background=0A192F&border=0A192F&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&sideLabels=CCD6F6&dates=8892B0&stroke=CCD6F6&currStreakNum=CCD6F6&sideNums=CCD6F6" alt="GitHub Streak" />
-
-</div>
-
----
 
 ## Featured Projects
 
