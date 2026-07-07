@@ -18,27 +18,25 @@ I build production-grade SaaS products, AI-integrated systems, and distributed b
 
 **Languages**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=ts,js,python,php&theme=dark" alt="Languages" />
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white) ![Telegraf](https://img.shields.io/badge/Telegraf-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,laravel,prisma&theme=dark&perline=6" alt="Backend" />
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend" />
 
 **Data &amp; Messaging**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,rabbitmq&theme=dark" alt="Data and Messaging" />
 
 **DevOps &amp; Observability**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white)
+<img src="https://skillicons.dev/icons?i=docker,githubactions,prometheus,linux,git&theme=dark&perline=5" alt="DevOps and Observability" />
 
-**AI &amp; ML**
-
-![Gemini Vision](https://img.shields.io/badge/Gemini%20Vision-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![GPT-4o-mini](https://img.shields.io/badge/GPT--4o--mini-412991?style=for-the-badge&logo=openai&logoColor=white) ![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white) ![InsightFace](https://img.shields.io/badge/InsightFace-5C3EE8?style=for-the-badge&logo=tensorflow&logoColor=white)
+**AI &amp; ML** &nbsp; Gemini Vision · GPT-4o-mini · Whisper · InsightFace
 
 ---
 
@@ -107,7 +105,11 @@ A community hub that connects students, coordinates events, and ran the universi
 
 ## Contact
 
-Open to remote engineering roles and freelance collaboration. The best ways to reach me:
+<div align="center">
 
-[![Email](https://img.shields.io/badge/Email-nordam312%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1C1C1C)](mailto:nordam312@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammeddamlakhi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1C1C1C)](https://linkedin.com/in/mohammeddamlakhi)
+Open to remote engineering roles and freelance collaboration.
+
+[![Email](https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nordam312@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammeddamlakhi)
+</div>
 
