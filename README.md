@@ -109,5 +109,5 @@ A community hub that connects students, coordinates events, and ran the universi
 
 Open to remote engineering roles and freelance collaboration. The best ways to reach me:
 
-[![Email](https://img.shields.io/badge/Email-nordam312%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1C1C1C)](mailto:nordam312@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammeddamlakhi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1C1C1C)](https://linkedin.com/in/mohammeddamlakhi) [![Live Product](https://img.shields.io/badge/Live-snapcalcoach.com-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1C1C1C)](https://snapcalcoach.com)
+[![Email](https://img.shields.io/badge/Email-nordam312%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1C1C1C)](mailto:nordam312@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammeddamlakhi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1C1C1C)](https://linkedin.com/in/mohammeddamlakhi)
 
