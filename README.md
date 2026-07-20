@@ -40,41 +40,6 @@ I build production-grade SaaS products, AI-integrated systems, and distributed b
 
 ---
 
-
-## Featured Projects
-
-### FaceVec — Distributed Face-Recognition Attendance System
-
-**A distributed, event-driven biometric attendance system across six containerized services.**
-
-Graduation thesis. A TypeScript/Express API gateway, Python/FastAPI InsightFace inference service, PostgreSQL + pgvector, Redis, and RabbitMQ. Includes a biometric pipeline with 512-d face embeddings (HNSW vector search), transactional outbox, circuit breaker resilience, JWT auth with token rotation, and a Next.js dashboard with a real-time WebSocket attendance feed.
-
-`TypeScript` · `Python` · `FastAPI` · `PostgreSQL/pgvector` · `RabbitMQ` · `Redis` · `Next.js` · `WebSocket` · `OpenTelemetry` · `Prometheus` · `Docker`
-
-**Repo:** [github.com/nordam312/facevec-attendance](https://github.com/nordam312/facevec-attendance)
-
-### SnapCal — AI Nutrition Coach
-
-**Production SaaS for AI-powered meal logging via photo, voice, and text.**
-
-An end-to-end nutrition coach that turns a photo, voice note, or text message into structured meal logs, backed by a multi-model AI pipeline and subscription billing.
-
-`TypeScript` · `Node.js` · `Next.js 16` · `Gemini Vision` · `GPT-4o-mini` · `Whisper` · `PostgreSQL` · `Redis` · `Docker` · `GitHub Actions` · `Paddle`
-
-**Live:** [snapcalcoach.com](https://snapcalcoach.com) · [Telegram Bot](https://t.me/SnapCalCoachBot)
-
-### Syrian Community Platform — Istanbul Aydın University
-
-**Full-stack platform serving 200+ students — networking, events, and the university's first digital council elections.**
-
-A community hub that connects students, coordinates events, and ran the university's first digital council elections end-to-end.
-
-`React` · `TypeScript` · `Laravel` · `MySQL` · `Tailwind CSS`
-
-**Live:** [iausyriancommunity.com](https://iausyriancommunity.com) · **Repo:** [github.com/nordam312/syrian-community-aydin](https://github.com/nordam312/syrian-community-aydin)
-
----
-
 ## More Skills &amp; Details
 
 | Area | Stack |
