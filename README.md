@@ -44,19 +44,18 @@ I build production-grade SaaS products, AI-integrated systems, and distributed b
 
 | Area | Stack |
 |---|---|
-| **Languages** | TypeScript (strict), JavaScript (ES2023+), Python, SQL, PHP |
+| **Languages** | TypeScript), JavaScript, Python, SQL, PHP |
 | **Backend** | Node.js, Express, NestJS, FastAPI, Telegraf, Prisma ORM, Zod, Laravel, WebSocket |
-| **Frontend** | React, Next.js (App Router), Tailwind CSS v4 |
-| **AI &amp; ML** | Gemini Vision, GPT-4o-mini, Whisper, InsightFace (face embeddings) |
+| **Frontend** | React, Next.js, Tailwind CSS v4 |
+| **AI integration** | Gemini Vision, GPT-4o-mini, Whisper, InsightFace (face embeddings) |
 | **Databases** | PostgreSQL, pgvector (HNSW), MySQL, Redis, PgBouncer |
 | **Messaging &amp; Resilience** | RabbitMQ (transactional outbox), circuit breaker (opossum), idempotency, rate limiting |
 | **DevOps** | Docker, GitHub Actions CI/CD, Caddy, Let's Encrypt, Linux |
 | **Observability** | OpenTelemetry, Prometheus |
 | **Cloud** | Hetzner, Vercel, Neon, GHCR, SSH deployment |
-| **Payments** | Paddle (HMAC webhooks, subscription lifecycle) |
 | **Testing** | Vitest, Supertest, Pytest, unit/integration/E2E |
 
-**Spoken Languages:** Arabic (Native) · Turkish (Native) · English (C1)
+**Spoken Languages:** Arabic (Native) · Turkish (Native) · English (B2)
 
 ---
 
